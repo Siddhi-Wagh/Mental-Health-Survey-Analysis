@@ -1,7 +1,7 @@
 # 🧠 Mental Health in the Workplace – Data Analysis
 An exploratory data analysis project on mental health in the workplace using survey data.
 
-Jupyter Notebook Link:
+Jupyter Notebook Link: https://shorturl.at/TyPnB
 
 ## Project Summary
 
