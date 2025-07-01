@@ -43,5 +43,5 @@ This analysis provides a valuable insights into how mental health issues and att
 - Jupyter Notebook: Mental Health Survey .ipynb
 
 ## 💬 **Contact**
-Project by **Siddhi Wagh**
-For feedback or collaboration: [LinkedIn](https://www.linkedin.com/in/siddhi-wagh-343489169/)
+- Project by **Siddhi Wagh**
+- For feedback or collaboration: [LinkedIn](https://www.linkedin.com/in/siddhi-wagh-343489169/)
